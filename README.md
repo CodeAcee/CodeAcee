@@ -3,7 +3,7 @@
 - 🧑‍💻 I'm a React and React Native developer with almost 4 years of experience.
 - 🎓 Currently, I'm learning new technologies and improving my skills.
 - 🌱 I'm always open to learning, advice, and collaboration. If you want to give some feedback, you're welcome.
-- 📬 If you want to contact me, write on [Telegram](https://t.me/your_telegram_username).
+- 📬 If you want to contact me, write on [Telegram](https://t.me/CodeAcee).
 
 ## My stack of technologies:
 
@@ -25,8 +25,8 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
 ## Telegram contact:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram_username)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeAcee)
 
 ## My statistics at GitHub:
 
-![Yaroslav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=dark&count_private=true&hide=contribs,prs)
+![Yaroslav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HelloWoooooorld&show_icons=true&theme=dark&count_private=true&hide=contribs,prs)
