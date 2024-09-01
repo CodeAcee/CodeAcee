@@ -33,11 +33,6 @@
 ![Apollo](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF3E00?style=for-the-badge&logo=react-query&logoColor=white)
 
-## My statistics at GitHub:
-
-![Yaroslav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=dark&count_private=true&hide=contribs,prs)
-
-
 ## Telegram contact:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeAcee)
 
