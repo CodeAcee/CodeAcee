@@ -5,13 +5,6 @@
 - 🌱 I'm always open to learning, advice, and collaboration. If you want to give some feedback, you're welcome.
 - 📬 If you want to contact me, write on [Telegram](https://t.me/CodeAcee).
 
-# 👋 Hi, I'm Yaroslav
-
-- 🧑‍💻 I'm a React and React Native developer with almost 4 years of experience.
-- 🎓 Currently, I'm learning new technologies and improving my skills.
-- 🌱 I'm always open to learning, advice, and collaboration. If you want to give some feedback, you're welcome)
-- 📬 If you want to contact me, write on [Telegram](https://t.me/your_telegram_username).
-
 ## My stack of technologies:
 
 ### Programming Languages
@@ -34,14 +27,11 @@
 ![Antd](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
 ### State Management
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) (Redux-Saga, Redux-Thunk)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white), ![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
 ![Apollo](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF3E00?style=for-the-badge&logo=react-query&logoColor=white)
-
-## Telegram contact:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram_username)
 
 ## My statistics at GitHub:
 
