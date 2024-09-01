@@ -4,7 +4,7 @@
 - 🎓 Currently, I'm learning new technologies and improving my skills.
 - 🌱 I'm always open to learning, advice, and collaboration. If you want to give some feedback, you're welcome.
 - 📬 If you want to contact me, write on [Telegram](https://t.me/CodeAcee).
-- 📬 Also you can write to [GMAIL](yarosalv6066@gmail.com).
+- 📬 Also, you can write to [GMAIL](mailto:yaroslav6066@gmail.com).
 
 ## My stack of technologies:
 
@@ -40,3 +40,10 @@
 ## My statistics at GitHub:
 
 ![Yaroslav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HelloWoooooorld&show_icons=true&theme=dark&count_private=true&hide=contribs,prs)
+
+## Top Repositories
+  <p align="left">
+     <a href="https://github.com/HelloWoooooorld/project_gallery"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thinkright20&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href=https://github.com/HelloWoooooorld/Coffee-App><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Thinkright20&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href=https://github.com/HelloWoooooorld/MERN-blog"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
