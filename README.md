@@ -4,6 +4,7 @@
 - 🎓 Currently, I'm learning new technologies and improving my skills.
 - 🌱 I'm always open to learning, advice, and collaboration. If you want to give some feedback, you're welcome.
 - 📬 If you want to contact me, write on [Telegram](https://t.me/CodeAcee).
+- 📬 Also you can write to [GMAIL](yarosalv6066@gmail.com).
 
 ## My stack of technologies:
 
