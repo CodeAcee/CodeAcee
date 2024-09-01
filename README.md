@@ -43,7 +43,6 @@
 
 ## Top Repositories
   <p align="left">
-     <a href="https://github.com/HelloWoooooorld/project_gallery"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thinkright20&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href=https://github.com/HelloWoooooorld/Coffee-App><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Thinkright20&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href=https://github.com/HelloWoooooorld/MERN-blog"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href=https://github.com/HelloWoooooorld/Coffee-App><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HelloWoooooorld&repo=Coffee-App&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href=https://github.com/HelloWoooooorld/MERN-blog"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HelloWoooooorld&repo=MERN-blog&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
