@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yaroslav
+# 👋 Hi, I'm Yar
 
 - 🧑‍💻 I'm a React and React Native developer with almost 4 years of experience.
 - 🎓 Currently, I'm learning new technologies and improving my skills.
